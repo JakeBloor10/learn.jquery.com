@@ -1,0 +1,12 @@
+{
+  "files": [
+    "page/ajax/ajax-and-forms.md",
+    "page/ajax/ajax-events.md",
+    "page/ajax/jquery-ajax-methods.md",
+    "page/ajax/key-concepts.md",
+    "page/ajax/working-with-jsonp.md"
+  ],
+  "formats": {},
+  "theme": "oreillymedia/atlas_tech1c_theme",
+  "title": "learn.jquery.com"
+}
